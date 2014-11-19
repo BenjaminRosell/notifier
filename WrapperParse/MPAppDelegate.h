@@ -1,5 +1,5 @@
 //
-//  YYYAppDelegate.h
+//  MPAppDelegate.h
 //  WrapperParse
 //
 //  Created by BestDev on 11/15/14.
@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <Parse/Parse.h>
 
-@interface YYYAppDelegate : UIResponder <UIApplicationDelegate>
+@interface MPAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 

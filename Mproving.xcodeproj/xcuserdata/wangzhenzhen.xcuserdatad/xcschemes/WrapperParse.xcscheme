@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B89BD0F11A16688E00DEE25A"
-               BuildableName = "WrapperParse.app"
-               BlueprintName = "WrapperParse"
-               ReferencedContainer = "container:WrapperParse.xcodeproj">
+               BuildableName = "Mproving.app"
+               BlueprintName = "Mproving"
+               ReferencedContainer = "container:Mproving.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B89BD1121A16688F00DEE25A"
-               BuildableName = "WrapperParseTests.xctest"
-               BlueprintName = "WrapperParseTests"
-               ReferencedContainer = "container:WrapperParse.xcodeproj">
+               BuildableName = "MprovingTests.xctest"
+               BlueprintName = "MprovingTests"
+               ReferencedContainer = "container:Mproving.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B89BD0F11A16688E00DEE25A"
-            BuildableName = "WrapperParse.app"
-            BlueprintName = "WrapperParse"
-            ReferencedContainer = "container:WrapperParse.xcodeproj">
+            BuildableName = "Mproving.app"
+            BlueprintName = "Mproving"
+            ReferencedContainer = "container:Mproving.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B89BD0F11A16688E00DEE25A"
-            BuildableName = "WrapperParse.app"
-            BlueprintName = "WrapperParse"
-            ReferencedContainer = "container:WrapperParse.xcodeproj">
+            BuildableName = "Mproving.app"
+            BlueprintName = "Mproving"
+            ReferencedContainer = "container:Mproving.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B89BD0F11A16688E00DEE25A"
-            BuildableName = "WrapperParse.app"
-            BlueprintName = "WrapperParse"
-            ReferencedContainer = "container:WrapperParse.xcodeproj">
+            BuildableName = "Mproving.app"
+            BlueprintName = "Mproving"
+            ReferencedContainer = "container:Mproving.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

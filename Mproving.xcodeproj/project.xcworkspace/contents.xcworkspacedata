@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:WrapperParse.xcodeproj">
+      location = "self:Mproving.xcodeproj">
    </FileRef>
 </Workspace>

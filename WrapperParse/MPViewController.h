@@ -1,5 +1,5 @@
 //
-//  YYYViewController.h
+//  MPViewController.h
 //  WrapperParse
 //
 //  Created by BestDev on 11/15/14.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface YYYViewController : UIViewController
+@interface MPViewController : UIViewController
 {
 	IBOutlet UIWebView *webView;
 }

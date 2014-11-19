@@ -1,17 +1,17 @@
 //
-//  YYYAppDelegate.m
+//  MPAppDelegate.m
 //  WrapperParse
 //
 //  Created by BestDev on 11/15/14.
 //  Copyright (c) 2014 BestDev. All rights reserved.
 //
 
-#import "YYYAppDelegate.h"
+#import "MPAppDelegate.h"
 
 #define PP_APPID		@"KVoYpkSprEY327cemJecUFQp8Vs6EbaczduSOpGp"
 #define PP_CLIENTKEY	@"e12VLaaVzUfjFRGOMJ9HJ2d1ppHHk75zHhJIZLLc"
 
-@implementation YYYAppDelegate
+@implementation MPAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {

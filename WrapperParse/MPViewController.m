@@ -1,22 +1,24 @@
 //
-//  YYYViewController.m
+//  MPViewController.m
 //  WrapperParse
 //
 //  Created by BestDev on 11/15/14.
 //  Copyright (c) 2014 BestDev. All rights reserved.
 //
 
-#import "YYYViewController.h"
+#import "MPViewController.h"
 
-@interface YYYViewController ()
+@interface MPViewController ()
 
 @end
 
-@implementation YYYViewController
+@implementation MPViewController
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+	
+	[webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:@"http://app.mproving.com"]]];
 	
 	[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(loadURL:) name:@"LoadUrl" object:nil];
 	// Do any additional setup after loading the view, typically from a nib.
